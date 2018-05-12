@@ -1,0 +1,27 @@
+_repo: A-mulher--Os-Portuguezes-em-Tanger_30919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matos, J. J. Rodrigues de
+    gutenberg_agent_id: '34895'
+    url: http://www.gutenberg.org/2009/agents/34895
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30919'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese -- Morocco -- History -- 16th century'
+- !lcc 'HQ'
+- !lcsh 'Women'
+- !lcc 'DT'
+title: A mulher; Os Portuguezes em Tanger
+url: http://www.gutenberg.org/ebooks/30919
